@@ -1,10 +1,11 @@
-If you want to run the solutions:
+This is the first project to be done
 
+Steps to run the solutions:
 
-1.Run Eclipse
+1. Run Eclipse
 
+2. Choose File -> Import -> Existing Maven Project -> <Specify your root directory>
 
-2.Choose File -> Import -> Existing Maven Project ->
+3. In the Package Explorer choose REST -> REST/src/main/java -> console -> ConsoleInterp.java
 
-
-3.In the Package Explorer choose: imz_lab_hamza/hamza_imz/src/main/java/hamza_Seminar_4/ soap.java
+4. Click Ctrl + F11 to Run
